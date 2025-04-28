@@ -1,10 +1,10 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQHvBUEBoJO-xQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZ8rpI1HoAg-/0/1745848540089?e=1751500800&v=beta&t=09hVwXiW22vbOouM9jcGYIMall4AmZvOYBOKqI8wkVk)
 
+
 ### Hi there 👋, I'm Tania Akter
 #### Web Developer
 
-
-Love to learn new skills. Now learning WordPress Developer. Full and fresh hand my power. Client satisfaction is my first priority.
+I’m a wordpress Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include Figma, Wix as well as Shopify.
 
 Skills: Wordpress / Elementor / Woocommerce/ Figma/ Wix/ Shopify
 
